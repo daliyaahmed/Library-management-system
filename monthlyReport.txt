@@ -1,0 +1,5 @@
+Monthly Report (November 2023):
+Number of Books Borrowed: 41
+Number of Books Returned: 41
+Number of Books to be Returned: 39
+Total Fines Collected: RM14.00

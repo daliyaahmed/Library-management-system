@@ -1,0 +1,11 @@
+||Book #|||||||||ISBN|||||||||||Author||||||||||||||Title||||||||||||||||||||Category|||||||||||||||||Year Published||||||Total Copies||||||||Available Copies||     
+1              125674898      Harper Lee          To Kill a Mockingbird    Coming of Age            1960                25                  12                       
+2              123678436      F. Scott Fitzgerald The Great Gatsby         Tragedy                  1925                20                  10                       
+3              154673987      Charlotte Bronte    Jane Eyre                Gothic fiction           1847                30                  10                       
+4              157441857      Jane Bronte         Cheryl Eyre              Romantic Classic         1847                30                  10                       
+5              123460789      Jane Austen         Pride and Prejudice      Classic Regency          1813                10                  2                        
+6              123426789      Charles Dickens     Great Expectations       Bildungsroman            1861                20                  10                       
+7              190876789      Louisa May Alcott   Little Women             Coming of Age            1868                10                  5                        
+8              126748389      Charles Dickens     Great Expectations       Bildungsroman            1861                20                  10                       
+9              123478499      John Ronald         The lord of Rings        Fantasy Fiction          1954                30                  23                       
+10             125426789      Chinua Achebe       Things Fall Apart        Historical Fiction       1958                20                  19                       
